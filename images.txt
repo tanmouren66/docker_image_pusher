@@ -1,13 +1,5 @@
-joinsunsoft/docker.ui
-mysql:8.0.38
-#nginx:1.27
-postgis/postgis:16-3.4
-eclipse-temurin:17-jdk
-eclipse-temurin:8-jdk
-ubuntu:24.10
-redis:6.2.14-alpine
-rabbitmq:3.13.5
-nacos/nacos-server:2.3.2
+joinsunsoft/docker.ui:1.0.1
+nacos/nacos-server:v2.3.2
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
