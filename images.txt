@@ -7,7 +7,7 @@ eclipse-temurin:8-jdk
 ubuntu:24.10
 redis:6.2.14-alpine
 rabbitmq:3.13.5
-
+nacos/nacos-server:2.23
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
