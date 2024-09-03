@@ -1,6 +1,4 @@
-apache/skywalking-oap-server:9.5.0
-apache/skywalking-java-agent:9.3.0-java17
-apache/skywalking-ui
+apache/skywalking-ui:9.5.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
